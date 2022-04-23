@@ -58,7 +58,7 @@
             <h3 class="text-center integration-title" id="ko-fi">Ko-Fi Integration</h3><br>
             <content class="d-flex flex-wrap align-items-center justify-content-center flexbox-mobile mb-10 mt-10">
                     <div class="half-col">
-                        <img class="example-image" src="https://images.unsplash.com/photo-1580519542036-c47de6196ba5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bW9uZXl8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="money image">
+                        <img class="example-image" src="https://images.unsplash.com/photo-1532629345422-7515f3d16bb6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZG9uYXRlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="money">
                     </div>
                     <div class="half-col">
                         <h2>Use CashHook with Ko-Fi.com!</h2>
@@ -66,8 +66,38 @@
                     </div>
             </content>
             <div class="d-flex justify-content-center get-row">
-                <a class="btn btn-cashhook text-center" href="https://autocode.com/">Get ko-fi integration on Autocode.com</a>
+                <a class="btn btn-cashhook text-center" href="https://autocode.com/app/cashhook/cashhook-kofi/">Get ko-fi integration on Autocode.com</a>
                 <a class="btn btn-cashhook text-center" href="https://github.com/">Get ko-fi integration on Github.com</a>
+            </div>
+            <hr>
+            <h3 class="text-center integration-title" id="buymeacoffee">Buy Me A Coffee Integration</h3><br>
+            <content class="d-flex flex-wrap align-items-center justify-content-center flexbox-mobile mb-10 mt-10">
+                    <div class="half-col">
+                        <img class="example-image" src="https://images.unsplash.com/photo-1541167760496-1628856ab772?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y29mZmVlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="money">
+                    </div>
+                    <div class="half-col">
+                        <h2>Use CashHook with BuyMeACoffee.com!</h2>
+                        <p>Get started with CashHook on BuyMeACoffee.com. Install CashHook for BMC with the below buttons to create a CashHook (webhook). Not a developer? We recommend you use Autocode.com as this will allow you to effortlessly allow you to host your CashHook for BMC with just a few simple details for your BMC data and Discord Server!</p>
+                    </div>
+            </content>
+            <div class="d-flex justify-content-center get-row">
+                <a class="btn btn-cashhook text-center" href="https://autocode.com/app/cashhook/cashhook-bmc/">Get BMC integration on Autocode.com</a>
+                <a class="btn btn-cashhook text-center" href="https://github.com/">Get BMC integration on Github.com</a>
+            </div>
+            <hr>
+            <h3 class="text-center integration-title" id="patron">Patreon Integration</h3><br>
+            <content class="d-flex flex-wrap align-items-center justify-content-center flexbox-mobile mb-10 mt-10">
+                    <div class="half-col">
+                        <img class="example-image" src="https://images.unsplash.com/photo-1512358958014-b651a7ee1773?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGRvbmF0ZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60" alt="money">
+                    </div>
+                    <div class="half-col">
+                        <h2>Use CashHook with Patreon.com!</h2>
+                        <p>Get started with CashHook on Patreon.com. Install CashHook for Patreon with the below buttons to create a CashHook (webhook). Not a developer? We recommend you use Autocode.com as this will allow you to effortlessly host your CashHook for Patreon with just a few simple details for your Discord Server!</p>
+                    </div>
+            </content>
+            <div class="d-flex justify-content-center get-row">
+                <a class="btn btn-cashhook text-center" href="https://autocode.com/app/cashhook/cashhook-patreon/">Get Patreon integration on Autocode.com</a>
+                <a class="btn btn-cashhook text-center" href="https://github.com/">Get Patreon integration on Github.com</a>
             </div>
         </div>
         <!-- Footer -->
