@@ -62,7 +62,7 @@
                     </div>
                     <div class="half-col">
                         <h2>Use CashHook with Ko-Fi.com!</h2>
-                        <p>Get started with CashHook on Ko-Fi.com. Install CashHook for Ko-Fi with the below buttons to create a webhook. Not a developer? We recommend you use Autocode.com as this will allow you to effortlessly allow you to host your CashHook (webhook) for Ko-Fi with just a few simple details for your Ko-Fi data and Discord Server!</p>
+                        <p>Get started with CashHook on Ko-Fi.com. Install CashHook for Ko-Fi with the below buttons to create a CashHook (webhook). Not a developer? We recommend you use Autocode.com as this will allow you to effortlessly allow you to host your CashHook for Ko-Fi with just a few simple details for your Ko-Fi data and Discord Server!</p>
                     </div>
             </content>
             <div class="d-flex justify-content-center get-row">
@@ -70,7 +70,7 @@
                 <a class="btn btn-cashhook text-center" href="https://github.com/">Get ko-fi integration on Github.com</a>
             </div>
         </div>
-        <!-- Navbar -->
+        <!-- Footer -->
         <?php include ('./php/footer.php');?>
     </body>
 </html>
