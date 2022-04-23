@@ -2,17 +2,17 @@
     <nav class="navbar navbar-expand-sm navbar-dark bg-nav justify-content-center d-none d-sm-none d-md-block d-lg-block d-xl-block nav-padding align-items-center">
     <div class="container align-items-center">
         <a class="navbar-brand" href="../">
-            <img src="../asset/brand/logo.svg" alt="CashHook" height="50px"/>
+            <img src="./asset/brand/logo.svg" alt="CashHook" height="50px"/>
         </a>
         <ul class="navbar-nav d-flex justify-content-end logo-nav">
           <li class="nav-item">
-              <a class="nav-link active" href="../ko-fi">Ko-Fi</a>
+              <a class="nav-link active" href="./#ko-fi">Ko-Fi</a>
           </li>
           <li class="nav-item">
-              <a class="nav-link active" href="../buymeacoffee">BuyMeACoffee</a>
+              <a class="nav-link active" href="./#buymeacoffee">BuyMeACoffee</a>
           </li>
           <li class="nav-item">
-              <a class="nav-link active" href="../patreon">Patreon</a>
+              <a class="nav-link active" href="./#patreon">Patreon</a>
           </li>
           <li class="nav-item">
               <a class="nav-link active btn btn-dark nav-btn" href="../donate">Donate</a>
@@ -24,7 +24,7 @@
 <div class="noSidePadding bg-cashhook-green d-block d-sm-block d-md-none d-lg-none d-xl-none sticky-top">
     <nav class="navbar navbar-expand-sm bg-nav navbar-light nav-padding">
           <a class="navbar-brand" href="../">
-              <img src="../asset/brand/logo.svg" alt="CashHook" height="50px"/>
+              <img src="./asset/brand/logo.svg" alt="CashHook" height="50px"/>
           </a>
                 <button class="navbar-toggle justify-self-end" type="button" onclick="openNav()">
                   &#9776;
@@ -41,9 +41,9 @@
                   <div id="myNav" class="overlay">
           <a href="#" class="closebtn" onclick="closeNav()">&times;</a>
           <div class="overlay-content">
-            <a href="../">Ko-Fi</a>
-            <a href="../about">BuyMeACoffee</a>
-            <a href="../portfolio">Patreon</a>
+            <a href="./#ko-fi">Ko-Fi</a>
+            <a href="./#buymeacoffee">BuyMeACoffee</a>
+            <a href="./#patreon">Patreon</a>
           </div>
         </div>
     </nav>
