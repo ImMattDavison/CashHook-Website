@@ -32,5 +32,19 @@
     <body>
         <!-- Navbar -->
         <?php include ('./php/navbar.php');?>
+        <!-- Main -->
+        <main class="container d-flex main-page-container justify-content-center">
+            <div class="align-self-center text-center">
+                <h1>Cash<wbr><green>Hook</green><br>
+                <span class="row justify-content-center btn-row">
+                    <a class="btn btn-cashhook" href="./#ko-fi">Ko-Fi integration</a>
+                    <a class="btn btn-cashhook" href="./#ko-fi">BuyMeACoffee integration</a>
+                    <a class="btn btn-cashhook" href="./#ko-fi">Patreon integration</a>
+                </span>
+            </div>
+        </main>
+        <content>
+            
+        </content>
     </body>
 </html>
