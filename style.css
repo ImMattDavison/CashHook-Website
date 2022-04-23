@@ -1,5 +1,16 @@
 body{
     background-color: rgb(42, 44, 42);
+    color: #f1f1f1;
+}
+green{
+    color: #3ec300;
+}
+.main-page-container{
+    height: 50vh;
+}
+.main-page-container, h1{
+    font-size: 2.85em;
+    line-height: 120px;
 }
 .bg-cashhook-green{
     background-color: #3ec300;
