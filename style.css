@@ -1,4 +1,6 @@
-
+:root{
+    scroll-behavior: smooth;
+}
 ::-webkit-scrollbar {
     width: 0;
   }
@@ -17,7 +19,8 @@
 ::selection{
     background-color: #3ec300;
     color: #fff;
-}body{
+}
+body{
     background-color: rgb(42, 44, 42);
     color: #f1f1f1;
     scroll-behavior: smooth;
@@ -145,6 +148,7 @@ hr{
 }
 .example-image{
     border-radius: 25px;
+    aspect-ratio: 4/3;
 }
 .showcase-row{
     width: 100%;
@@ -161,6 +165,16 @@ hr{
         max-width: 100%;
         border-radius: 25px;
     }
+}
+.integration-title{
+    font-size: 2.7em;
+    text-decoration: underline;
+    text-decoration-color: #3ec300;
+    text-decoration-thickness: 0.3em;
+    margin-bottom: 1em;
+}
+.get-row{
+    margin-top: 2em;
 }
 /*FOOTER*/
 footer{
