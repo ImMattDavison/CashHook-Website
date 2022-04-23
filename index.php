@@ -67,7 +67,7 @@
             </content>
             <div class="d-flex justify-content-center get-row">
                 <a class="btn btn-cashhook text-center" href="https://autocode.com/app/cashhook/cashhook-kofi/">Get ko-fi integration on Autocode.com</a>
-                <a class="btn btn-cashhook text-center" href="https://github.com/">Get ko-fi integration on Github.com</a>
+                <a class="btn btn-cashhook text-center" href="https://github.com/immattdavison/CashHook-KoFi">Get ko-fi integration on Github.com</a>
             </div>
             <hr>
             <h3 class="text-center integration-title" id="buymeacoffee">Buy Me A Coffee Integration</h3><br>
@@ -82,7 +82,7 @@
             </content>
             <div class="d-flex justify-content-center get-row">
                 <a class="btn btn-cashhook text-center" href="https://autocode.com/app/cashhook/cashhook-bmc/">Get BMC integration on Autocode.com</a>
-                <a class="btn btn-cashhook text-center" href="https://github.com/">Get BMC integration on Github.com</a>
+                <a class="btn btn-cashhook text-center" href="https://github.com/immattdavison/CashHook-BMC">Get BMC integration on Github.com</a>
             </div>
             <hr>
             <h3 class="text-center integration-title" id="patron">Patreon Integration</h3><br>
@@ -97,7 +97,7 @@
             </content>
             <div class="d-flex justify-content-center get-row">
                 <a class="btn btn-cashhook text-center" href="https://autocode.com/app/cashhook/cashhook-patreon/">Get Patreon integration on Autocode.com</a>
-                <a class="btn btn-cashhook text-center" href="https://github.com/">Get Patreon integration on Github.com</a>
+                <a class="btn btn-cashhook text-center" href="https://github.com/immattdavison/CashHook-Patreon">Get Patreon integration on Github.com</a>
             </div>
         </div>
         <!-- Footer -->
