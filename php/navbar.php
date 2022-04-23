@@ -6,13 +6,16 @@
         </a>
         <ul class="navbar-nav d-flex justify-content-end logo-nav">
           <li class="nav-item">
-              <a class="nav-link active" href="../">Ko-Fi</a>
+              <a class="nav-link active" href="../ko-fi">Ko-Fi</a>
           </li>
           <li class="nav-item">
-              <a class="nav-link active" href="../about">BuyMeACoffee</a>
+              <a class="nav-link active" href="../buymeacoffee">BuyMeACoffee</a>
           </li>
           <li class="nav-item">
-              <a class="nav-link active" href="../portfolio">Patreon</a>
+              <a class="nav-link active" href="../patreon">Patreon</a>
+          </li>
+          <li class="nav-item">
+              <a class="nav-link active btn btn-dark nav-btn" href="../donate">Donate</a>
           </li>
         </ul>
       </nav>
