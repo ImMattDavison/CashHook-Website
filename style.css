@@ -1,0 +1,78 @@
+body{
+    background-color: rgb(42, 44, 42);
+}
+.bg-cashhook-green{
+    background-color: #3ec300;
+}
+.nav-link{
+    font-weight: 400;
+    font-style: normal;
+    text-transform: uppercase;
+    margin: 0em 0.5em;
+    color: #c9c9c9;
+}
+.nav-link:hover{
+    font-weight: 400;
+    font-style: normal;
+    text-transform: uppercase;
+}
+.navbar-toggle{
+    border-width: 0;
+    color: #fff;
+    font-size: 2.5em;
+    background: none;
+    padding-right: 0;
+}
+.overlay {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background: #000;
+    overflow-x: hidden;
+    transition: 0.5s;
+}
+.overlay-content {
+    font-weight: 600;
+    font-style: normal;
+    position: relative;
+    top: 15%;
+    width: 100%;
+    margin-left: 1em;
+    text-align: left;
+    margin-top: 30px;
+    padding-bottom: 30px;
+}
+.overlay a {
+    padding: 8px;
+    text-decoration: none;
+    font-size: 2em;
+    color: #fff;
+    display: block;
+    transition: 0.3s;
+}
+.overlay a:hover, .overlay a:focus {
+    color: #f1f1f1;
+}
+.overlay .closebtn {
+    position: absolute;
+    top: 20px;
+    right: 15px;
+    font-size: 45px;
+}
+.closebtn:active{
+    text-decoration: none;
+}
+@media screen and (max-height: 450px) {
+    .overlay a {font-size: 20px}
+    .overlay .closebtn {
+    font-size: 40px;
+    top: 15px;
+    right: 35px;
+    }
+}
+.sticky-top{
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.3), 0 10px 28px 0 rgba(0, 0, 0, 0.3);
+}
