@@ -1,4 +1,23 @@
-body{
+
+::-webkit-scrollbar {
+    width: 0;
+  }
+::-webkit-scrollbar-track {
+    background: transparent; 
+}
+::-webkit-scrollbar-thumb {
+    background: #3ec300;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #319a00; 
+}
+::-webkit-resizer{
+    color: #3ec300;
+}
+::selection{
+    background-color: #3ec300;
+    color: #fff;
+}body{
     background-color: rgb(42, 44, 42);
     color: #f1f1f1;
 }
@@ -6,11 +25,11 @@ green{
     color: #3ec300;
 }
 .main-page-container{
-    height: 50vh;
+    height: 90vh;
 }
 .main-page-container, h1{
     font-size: 2.85em;
-    line-height: 120px;
+    line-height: 110px;
 }
 .bg-cashhook-green{
     background-color: #3ec300;
@@ -19,7 +38,8 @@ green{
     border-radius: 30px;
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.3), 0 10px 28px 0 rgba(0, 0, 0, 0.3);
     font-weight: 600;
-    padding: auto 10px;
+    padding: auto 15px;
+    background-color: rgb(42, 44, 42);
 }
 .nav-link{
     font-weight: 600;
@@ -92,4 +112,18 @@ green{
 }
 .sticky-top{
     box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.3), 0 10px 28px 0 rgba(0, 0, 0, 0.3);
+}
+.btn-cashhook{
+    margin: 0.3em;
+    color: #fff;
+    background-color: #3ec300;
+    border-color: #3ec300;
+}
+.btn-row{
+    margin-top: 0.3em;
+}
+.btn-cashhook:hover{
+    color: #fff;
+    background-color: #319a00;
+    border-color: #319a00;
 }
