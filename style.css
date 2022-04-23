@@ -20,16 +20,24 @@
 }body{
     background-color: rgb(42, 44, 42);
     color: #f1f1f1;
+    scroll-behavior: smooth;
 }
 green{
     color: #3ec300;
 }
 .main-page-container{
-    height: 90vh;
+    height: 93vh;
 }
-.main-page-container, h1{
-    font-size: 2.85em;
+.main-page-container h1{
+    font-size: 8.5em;
     line-height: 110px;
+}
+.main-page-container p{
+    font-size: 1.5em;
+    line-height: auto;
+}
+p{
+    font-size: 1.2em;
 }
 .bg-cashhook-green{
     background-color: #3ec300;
@@ -126,4 +134,71 @@ green{
     color: #fff;
     background-color: #319a00;
     border-color: #319a00;
+}
+.half-col{
+    max-width: 47%;
+    margin: 1.2em;
+}
+.example-image{
+    border-radius: 25px;
+}
+.showcase-row{
+    width: 100%;
+}
+@media (max-width: 576px){
+    .flexbox-mobile{
+        max-width: 100%;
+    }
+    .half-col{
+        max-width: 100%;
+        margin: 0.5em;
+    }
+    .example-image{
+        max-width: 100%;
+        border-radius: 25px;
+    }
+}
+/*FOOTER*/
+footer{
+    background: #3ec300;
+    color: #fff;
+    align-self: end !important;
+}
+.footer-link{
+    color: #fff;
+    margin-bottom: 5px;
+}
+.footer-link-item{
+    margin-bottom: .5em;
+}
+.footer-link:hover{
+    color: #fff;
+}
+@media (max-width: 576px) { 
+    .first-footer-group{
+        margin-top: 1em;
+    } 
+    footer h5{
+        font-size: 1.7em;
+    }
+}
+footer h5{
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    font-family: effra,sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+footer{
+    height: 100%;
+}
+.footer-social-icon{
+    fill: #c5c5c5;
+    width: 1.3em;
+    margin: 1em 0.5em;
+}
+.footer-social-icon:hover{
+    fill: #fff;
+    width: 1.3em;
+    margin: 1em 0.5em;
 }
