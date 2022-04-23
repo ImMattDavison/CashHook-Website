@@ -135,6 +135,10 @@ p{
     background-color: #319a00;
     border-color: #319a00;
 }
+hr{
+    background-color: #3ec300;
+    margin: 5em auto;
+}
 .half-col{
     max-width: 47%;
     margin: 1.2em;
@@ -163,6 +167,7 @@ footer{
     background: #3ec300;
     color: #fff;
     align-self: end !important;
+    margin-top: 2em;
 }
 .footer-link{
     color: #fff;
