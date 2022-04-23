@@ -55,6 +55,7 @@
                     </div>
             </content>
             <hr>
+            <h3 class="text-center">Ko-Fi Integration</h3><br>
             <content class="d-flex flex-wrap align-items-center justify-content-center flexbox-mobile mb-10 mt-10">
                     <div class="half-col">
                         <img class="example-image" src="https://images.unsplash.com/photo-1580519542036-c47de6196ba5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bW9uZXl8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="">
