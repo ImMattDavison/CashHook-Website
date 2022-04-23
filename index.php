@@ -51,20 +51,24 @@
                         <p>CashHook is a simple to use and swift setup webhook tool for Ko-Fi, BuyMeACoffee and Patreon. CashHook is a project built for MLH event - The Hackconomist. CashHook was made with the intention of making it easier for creators to make sure their community and monetary supporters feel recognised for what they do.</p>
                     </div>
                     <div class="half-col">
-                        <img class="example-image" src="https://images.unsplash.com/photo-1580519542036-c47de6196ba5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bW9uZXl8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="">
+                        <img class="example-image" src="https://images.unsplash.com/photo-1580519542036-c47de6196ba5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bW9uZXl8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="money image">
                     </div>
             </content>
             <hr>
-            <h3 class="text-center">Ko-Fi Integration</h3><br>
+            <h3 class="text-center integration-title" id="ko-fi">Ko-Fi Integration</h3><br>
             <content class="d-flex flex-wrap align-items-center justify-content-center flexbox-mobile mb-10 mt-10">
                     <div class="half-col">
-                        <img class="example-image" src="https://images.unsplash.com/photo-1580519542036-c47de6196ba5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bW9uZXl8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="">
+                        <img class="example-image" src="https://images.unsplash.com/photo-1580519542036-c47de6196ba5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bW9uZXl8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="money image">
                     </div>
                     <div class="half-col">
-                        <h2>What is CashHook?</h2>
-                        <p>CashHook is a simple to use and swift setup webhook tool for Ko-Fi, BuyMeACoffee and Patreon. CashHook is a project built for MLH event - The Hackconomist. CashHook was made with the intention of making it easier for creators to make sure their community and monetary supporters feel recognised for what they do.</p>
+                        <h2>Use CashHook with Ko-Fi.com!</h2>
+                        <p>Get started with CashHook on Ko-Fi.com. Install CashHook for Ko-Fi with the below buttons to create a webhook. Not a developer? We recommend you use Autocode.com as this will allow you to effortlessly allow you to host your CashHook (webhook) for Ko-Fi with just a few simple details for your Ko-Fi data and Discord Server!</p>
                     </div>
             </content>
+            <div class="d-flex justify-content-center get-row">
+                <a class="btn btn-cashhook text-center" href="https://autocode.com/">Get ko-fi integration on Autocode.com</a>
+                <a class="btn btn-cashhook text-center" href="https://github.com/">Get ko-fi integration on Github.com</a>
+            </div>
         </div>
         <!-- Navbar -->
         <?php include ('./php/footer.php');?>
