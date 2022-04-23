@@ -35,16 +35,37 @@
         <!-- Main -->
         <main class="container d-flex main-page-container justify-content-center">
             <div class="align-self-center text-center">
-                <h1>Cash<wbr><green>Hook</green><br>
+                <h1>Cash<wbr><green>Hook</green></h1><br>
+                <p>Increase your rate of donations by giving your community the recognition they deserve!</p>
                 <span class="row justify-content-center btn-row">
                     <a class="btn btn-cashhook" href="./#ko-fi">Ko-Fi integration</a>
-                    <a class="btn btn-cashhook" href="./#ko-fi">BuyMeACoffee integration</a>
-                    <a class="btn btn-cashhook" href="./#ko-fi">Patreon integration</a>
+                    <a class="btn btn-cashhook" href="./#buymeacoffee">BuyMeACoffee integration</a>
+                    <a class="btn btn-cashhook" href="./#patreon">Patreon integration</a>
                 </span>
             </div>
         </main>
-        <content>
-            
-        </content>
+        <div class="container">
+            <content class="d-flex flex-wrap align-items-center justify-content-center flexbox-mobile mb-10 mt-10">
+                    <div class="half-col">
+                        <h2>What is CashHook?</h2>
+                        <p>CashHook is a simple to use and swift setup webhook tool for Ko-Fi, BuyMeACoffee and Patreon. CashHook is a project built for MLH event - The Hackconomist. CashHook was made with the intention of making it easier for creators to make sure their community and monetary supporters feel recognised for what they do.</p>
+                    </div>
+                    <div class="half-col">
+                        <img class="example-image" src="https://images.unsplash.com/photo-1580519542036-c47de6196ba5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bW9uZXl8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="">
+                    </div>
+            </content>
+            <hr>
+            <content class="d-flex flex-wrap align-items-center justify-content-center flexbox-mobile mb-10 mt-10">
+                    <div class="half-col">
+                        <img class="example-image" src="https://images.unsplash.com/photo-1580519542036-c47de6196ba5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bW9uZXl8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="">
+                    </div>
+                    <div class="half-col">
+                        <h2>What is CashHook?</h2>
+                        <p>CashHook is a simple to use and swift setup webhook tool for Ko-Fi, BuyMeACoffee and Patreon. CashHook is a project built for MLH event - The Hackconomist. CashHook was made with the intention of making it easier for creators to make sure their community and monetary supporters feel recognised for what they do.</p>
+                    </div>
+            </content>
+        </div>
+        <!-- Navbar -->
+        <?php include ('./php/footer.php');?>
     </body>
 </html>
