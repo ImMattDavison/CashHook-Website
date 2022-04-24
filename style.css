@@ -146,9 +146,9 @@ hr{
     max-width: 47%;
     margin: 1.2em;
 }
-.example-image{
+img{
     border-radius: 25px;
-    aspect-ratio: 4/3;
+    aspect-ratio: 1 / 1 !important;
 }
 .showcase-row{
     width: 100%;
