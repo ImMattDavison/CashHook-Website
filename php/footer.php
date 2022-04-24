@@ -30,7 +30,7 @@
         <div class="col-12 col-md">
           <h4>Contact</h4>
           <ul class="list-unstyled text-small">
-            <li class="footer-link-item"><a class="footer-link" href="mailto:info@mjdws.com">matt@mjdws.com</a></li>
+            <li class="footer-link-item"><a class="footer-link" href="mailto:matt@mjdws.com">matt@mjdws.com</a></li>
           </ul>
         </div>
       </div>
