@@ -148,7 +148,7 @@ hr{
 }
 img{
     border-radius: 25px;
-    aspect-ratio: 1 / 1 !important;
+    aspect-ratio: 4 / 3 !important;
 }
 .showcase-row{
     width: 100%;
