@@ -15,7 +15,7 @@
               <a class="nav-link active" href="./#patreon">Patreon</a>
           </li>
           <li class="nav-item">
-              <a class="nav-link active btn btn-dark nav-btn" href="../donate">Donate</a>
+              <a class="nav-link active btn btn-dark nav-btn" href="https://ko-fi.com/CashHook">Donate</a>
           </li>
         </ul>
       </nav>
@@ -44,6 +44,7 @@
             <a href="./#ko-fi">Ko-Fi</a>
             <a href="./#buymeacoffee">BuyMeACoffee</a>
             <a href="./#patreon">Patreon</a>
+            <a href="https://ko-fi.com/CashHook">Donate</a>
           </div>
         </div>
     </nav>
