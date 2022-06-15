@@ -16,11 +16,11 @@
         <!-- Open Graph tags -->
             <meta property="og:title" content="CashHook | Get More Donations!"/>
             <meta property="og:description" content="CashHook is a simple to use and swift setup webhook tool for Ko-Fi, BuyMeACoffee and Patreon!"/>
-            <meta property="og:image" SameSite="Strict" content="https://CashHook.tech/asset/og/mainoog.png"/>
+            <meta property="og:image" SameSite="Strict" content="https://CashHook.tech/asset/cashhook-cover.png"/>
             <meta property="og:site_name" content="CashHook"/>
             <meta name="og:url" SameSite="Strict" content="https://CashHook.tech/">
             <meta property="twitter:card" content="summary_large_image" />
-            <meta property="twitter:image" SameSite="Strict" content="https://CashHook.tech/asset/og/mainog.png" />
+            <meta property="twitter:image" SameSite="Strict" content="https://CashHook.tech/asset/cashhook-cover.png" />
             <meta property="twitter:site" content="CashHook" />
             <meta name="theme-color" content="#3ec300">
         <!-- SEO meta tags -->
