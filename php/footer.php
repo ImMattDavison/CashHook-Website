@@ -23,7 +23,7 @@
         <div class="col-12 col-md">
           <h4>Developers</h4>
           <ul class="list-unstyled text-small">
-            <li class="footer-link-item"><a class="footer-link" href="../privacy">Privacy Policy</a></li>
+            <li class="footer-link-item"><a class="footer-link" href="https://mjdws.com/privacy">Privacy Policy</a></li>
             <li class="footer-link-item"><a class="footer-link" href="mailto:privacy@mjdws.com">Privacy Concerns</a></li>
           </ul>
         </div>
